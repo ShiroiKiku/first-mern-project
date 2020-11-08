@@ -1,0 +1,5 @@
+{
+    "port":5000,
+    "jwtSecret": "secret",
+    "mongoUri": "mongodb+srv://Shiroikiku:2mLjC1bdGhaG92qP@cluster0.9ezgy.mongodb.net/app"
+}
